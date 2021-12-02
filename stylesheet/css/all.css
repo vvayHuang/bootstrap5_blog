@@ -11958,4 +11958,17 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 /*# sourceMappingURL=all.css.map */
